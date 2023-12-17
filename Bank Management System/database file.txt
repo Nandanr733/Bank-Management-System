@@ -1,10 +1,4 @@
-------------------
-CODE FOR INTERVIEW
-------------------
 
-Do Subscribe our Youtube channel and Please like the video if you liked it
-Channel: https://www.youtube.com/channel/UCo9P-eIdR00Fn1gA_ylaHdQ
-Project Playlist: https://www.youtube.com/watch?v=pMR_48AF-A0&list=PL_6klLfS1WqG8mRCW5a-bIViq1DbzQkp9
 
 
 ---------------------------------------------------
@@ -40,17 +34,5 @@ create table login(formno varchar(20), cardnumber varchar(25), pin varchar(10));
 create table bank(pin varchar(10), date varchar(50), type varchar(20), amount varchar(20));
 
 
-If you have any questions, feel free to ping us on Instagram/Telegram
 
-Instagram
-username: codeforinterview
-https://www.instagram.com/codeforinterview
-
-Telegram
-username: codeforinterview
-https://t.me/codeforinterview
-
-
-Code For Interview
-Channel: https://www.youtube.com/channel/UCo9P-eIdR00Fn1gA_ylaHdQ
 
